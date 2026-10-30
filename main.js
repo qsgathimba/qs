@@ -127,15 +127,15 @@
             alt: 'Residential development'
         },
         {
-            key: 'affordable',
-            type: 'AFFORDABLE HOUSING',
+            key: 'appartments',
+            type: 'APPARTMENTS',
             title: 'FinanciaManagement and Cost Advice',
-            description: 'Involved in the ongoing Affordable Housing Programme .',
-            focus: 'Project Supervision and Financial Management ',
+            description: 'Feaseability studies , Cost of development and financial Management of high rise appartments  .',
+            focus: 'Project viability and Financial Management ',
             role: 'Supervision',
             approach: 'Value • Timelines • Delivery',
-            image: 'image/Affordabl hse.jpeg',
-            alt: 'Affordable housing construction'
+            image: 'image/Residential Appartments.jpeg',
+            alt: 'Appartment construction'
         },
         {
             key: 'fitout',
