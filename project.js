@@ -54,7 +54,7 @@
                 approach: "Valuations"
             },
             {
-                image: "image/Affordable 2.jpeg",
+                image: "image/Residential Appartments.jpeg",
                 alt: "Apartment blocks",
                 title: "Apartment Blocks Budgeting",
                 focus: "Completion works ",
@@ -62,7 +62,7 @@
                 Services: "Completion work BQ • Valuations • Report"
             },
             {
-                image: "image/Affordable 3.jpeg",
+                image: "image",
                 alt: "Estate infrastructure",
                 title: "Estate Infrastructure Works",
                 description: "Measurement and payment certification for roads, drainage and services serving a new housing estate.",
