@@ -23,29 +23,28 @@
                 description: "Cost planning, measurement and commercial support focused on creating clear financial visibility throughout a residential development.",
                 focus: "Cost Planning",
                 role: "Quantity Surveying",
-                approach: "Measure • Plan • Control"
+                services: "Completion Works BQ "
             },
             {
                 image: "image/Residential 2.jpeg",
-                alt: "Private residence",
-                title: "Private Residence Valuation",
+                alt: "Residential",
+                title: "Completion Works and Finishes",
                 description: "Interim valuations and final accounts prepared for a private residence so payments always match the work on site.",
-                focus: "Valuations",
+                focus: "Completion works",
                 role: "Quantity Surveying",
-                approach: "Measure • Value • Certify"
+                services: "Completion work BQ  • Valuations "
             },
             {
-                image: "image/Residential 3.jpeg",
-                alt: "Gated estate",
-                title: "Gated Estate Bills of Quantities",
-                description: "Detailed bills of quantities for a multi-unit estate, giving contractors a fair and comparable basis for tender.",
-                focus: "Tendering",
+                image: "image/KNH%20Remeasurement%20(2).jpeg",
+                alt: "Large scale housing ",
+                title: " Bills of Quantities",
+                focus: "Cost management",
                 role: "Quantity Surveying",
-                approach: "Measure • Tender • Compare"
+                services: "BQS, Appraisals and Valuations"
             }
         ],
 
-        affordable: [
+        appartments: [
             {
                 image: "image/Government projects.jpeg",
                 alt: "Affordable housing scheme",
@@ -59,10 +58,9 @@
                 image: "image/Affordable 2.jpeg",
                 alt: "Apartment blocks",
                 title: "Apartment Blocks Budgeting",
-                description: "Elemental cost plans and budget tracking for repeat apartment blocks, so savings in one block carry into the next.",
-                focus: "Budgeting",
+                focus: "Completion works ",
                 role: "Quantity Surveying",
-                approach: "Estimate • Track • Report"
+                Services: "Completion work BQ • Valuations • Report"
             },
             {
                 image: "image/Affordable 3.jpeg",
@@ -78,31 +76,14 @@
         fitout: [
             {
                 image: "image/Fitout works.jpeg",
-                alt: "Office fitout",
+                alt: "Space  fitout Works",
                 title: "Office Fitout Cost Management",
                 description: "Fast, accurate pricing and variation tracking for an office fitout delivered on a tight programme.",
                 focus: "Fitout Costs",
                 role: "Quantity Surveying",
-                approach: "Price • Track • Deliver"
+                approach: "Fitout works estimition"
             },
-            {
-                image: "image/Fitout 2.jpeg",
-                alt: "Retail fitout",
-                title: "Retail Space Fitout",
-                description: "Bills of quantities and final accounts for a retail interior that had to open on a fixed date.",
-                focus: "Final Accounts",
-                role: "Quantity Surveying",
-                approach: "Measure • Agree • Settle"
-            },
-            {
-                image: "image/Fitout 3.jpeg",
-                alt: "Restaurant fitout",
-                title: "Hospitality Fitout",
-                description: "Commercial support for a restaurant fitout, covering specialist packages and change control.",
-                focus: "Change Control",
-                role: "Commercial Support",
-                approach: "Review • Negotiate • Control"
-            }
+           
         ]
     };
 
