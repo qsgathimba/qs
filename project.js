@@ -46,13 +46,13 @@
 
         appartments: [
             {
-                image: "image/Government projects.jpeg",
-                alt: "Affordable housing scheme",
-                title: "Affordable Housing Scheme",
+                image: "image/Residential Appartments.jpeg",
+                alt: "Appartments in Eldoret",
+                title: "Appartments in Eldoret",
                 description: "Cost control and value engineering that keeps a large housing scheme within budget without cutting quality.",
                 focus: "Cost Control",
-                role: "Cost Consultant",
-                approach: "Plan • Engineer • Control"
+                role: "QS",
+                approach: "Valuations"
             },
             {
                 image: "image/Affordable 2.jpeg",
