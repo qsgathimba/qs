@@ -49,7 +49,6 @@
                 image: "image/Residential Appartments.jpeg",
                 alt: "Appartments in Eldoret",
                 title: "Appartments in Eldoret",
-                description: "Cost control and value engineering that keeps a large housing scheme within budget without cutting quality.",
                 focus: "Cost Control",
                 role: "QS",
                 approach: "Valuations"
@@ -76,9 +75,8 @@
         fitout: [
             {
                 image: "image/Rehani Paintworks.jpeg",
-                alt: "Space  fitout Works",
-                title: "Office Fitout Cost Management",
-                description: "Fast, accurate pricing and variation tracking for an office fitout delivered on a tight programme.",
+                alt: "Paint Works Remeasurement",
+                title: "Paint Works Remeasurement",
                 focus: "Fitout Costs",
                 role: "Quantity Surveying",
                 approach: "Fitout works estimition"
