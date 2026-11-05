@@ -82,7 +82,7 @@
                 approach: "Fitout works estimition"
             },
            
-        ]
+        ]},
 
     var AUTOPLAY_SECONDS = 7;   /* also change "7s" in .pj-bar i in projects.css */
 
