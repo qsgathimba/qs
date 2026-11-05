@@ -75,7 +75,7 @@
 
         fitout: [
             {
-                image: "image/Fitout works.jpeg",
+                image: "image/Rehani Paintworks.jpeg",
                 alt: "Space  fitout Works",
                 title: "Office Fitout Cost Management",
                 description: "Fast, accurate pricing and variation tracking for an office fitout delivered on a tight programme.",
